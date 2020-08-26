@@ -65,7 +65,7 @@ The downloaded package contains all the source code, examples, jars, and API htm
 * **Xiangbo Li**, Mohsen Amini Salehi, Magdi Bayoumi, [High Performance On-Demand Video Transcoding Using Cloud Services](http://hpcclab.org/paperPdf/ccgrid16/CloudTransSymp.pdf), in Proceedings of the 16th ACM/IEEE International Conference on Cluster Cloud and Grid Computing (CCGrid ’16), Columbia, May 2016 (Doctoral symposium)
 * **Xiangbo Li**, Mohsen Amini Salehi, Magdi Bayoumi, Cloud-Based Video Streaming for Energy- and Compute-Limited Thin Clients, Presented in Stream2015 Workshop at Indiana University, Indianapolis, USA, Oct. 2015.
 
-##Licence
+## Licence
 
 Developed by [Xiangbo Li](https://www.linkedin.com/in/xiangbo-li-2893582a)
 
